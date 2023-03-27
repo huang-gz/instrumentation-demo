@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Premain-Class: org.hgz.ins.MyInstrumentationAgent
+Agent-Class: org.hgz.ins.MyInstrumentationAgent
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
